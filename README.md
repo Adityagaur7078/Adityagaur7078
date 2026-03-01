@@ -2,10 +2,6 @@
 <h3 align="center">🚀 Full Stack Web Developer | BCA Student | DSA in JavaScript</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adityagaur7078&label=Profile%20Views&color=7F3FBF&style=flat" />
-</p>
-
-<p align="center">
   Turning ideas into scalable web applications.
 </p>
 
@@ -42,22 +38,16 @@ Focused on long-term growth through consistency and real-world project building.
 Developed responsive UI using HTML, CSS & JavaScript  
 Implemented structured layouts and reusable components  
 
-<p align="center">
-  <a href="https://github.com/Adityagaur7078/Milestone-Project--PW-Skills">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adityagaur7078&repo=Milestone-Project--PW-Skills&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+🔗 Repository:  
+https://github.com/Adityagaur7078/Milestone-Project--PW-Skills
 
 ---
 
 ### 🔹 HTML-CSS-JS Projects Collection  
 Developed multiple mini projects focusing on DOM manipulation and logic building  
 
-<p align="center">
-  <a href="https://github.com/Adityagaur7078/HTML-CSS-JS-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adityagaur7078&repo=HTML-CSS-JS-Project&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+🔗 Repository:  
+https://github.com/Adityagaur7078/HTML-CSS-JS-Project
 
 ---
 
