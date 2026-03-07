@@ -54,7 +54,6 @@ https://github.com/Adityagaur7078/HTML-CSS-JS-Project
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adityagaur7078&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://streak-stats.demolab.com/?user=Adityagaur7078&theme=tokyonight&hide_border=true" />
 </p>
 
