@@ -37,23 +37,25 @@ Building modern web applications with clean code, responsive user interfaces, an
 
 <h2 align="center">📂 Featured Projects</h2>
 
-### 🎨 HTML & CSS Projects
+### 📸 Image Sharing App
 
-<p align="center">
-Responsive websites built using modern HTML and CSS.
+<p align="left">
+A full-stack image sharing platform where users can upload, manage, and share images through a modern and responsive interface.
 </p>
 
-<p align="center">
-✔ Responsive Design<br>
-✔ Flexbox & CSS Grid<br>
-✔ Landing Pages<br>
-✔ UI Components<br>
-✔ CSS Animations
+<p align="left">
+
+✨ Responsive User Interface<br>
+☁️ Image Upload & Cloud Storage Integration<br>
+📦 RESTful API Architecture<br>
+🗄️ MongoDB Database Integration<br>
+⚡ Built with the MERN Stack
+
 </p>
 
-<p align="center">
-<a href="https://github.com/Adityagaur7078/HTML-CSS-Project">
-HTML-CSS-Project
+<p align="left">
+<a href="https://github.com/Adityagaur7078/image-sharing-app">
+Image Sharing App Repository
 </a>
 </p>
 
@@ -61,21 +63,22 @@ HTML-CSS-Project
 
 ### ⚡ HTML • CSS • JavaScript Projects
 
-<p align="center">
-A collection of JavaScript projects focused on practical frontend development.
+<p align="left">
+A collection of frontend projects built to strengthen JavaScript fundamentals, DOM manipulation, API integration, and responsive UI development.
 </p>
 
-<p align="center">
+<p align="left">
+
 ✔ DOM Manipulation<br>
 ✔ API Integration<br>
-✔ Games<br>
 ✔ Form Validation<br>
-✔ Timers<br>
-✔ Calculators<br>
-✔ Interactive UI Components
+✔ Interactive UI Components<br>
+✔ Games & Mini Applications<br>
+✔ Timers & Utility Projects
+
 </p>
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/Adityagaur7078/HTML-CSS-JS-Project">
 HTML-CSS-JS-Project
 </a>
