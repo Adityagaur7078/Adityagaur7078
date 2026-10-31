@@ -47,6 +47,10 @@ Building modern web applications with clean code, responsive user interfaces, an
 
 <p align="center">
 
+<a href="https://aditya-gaur-portfolio-seven.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+
 <a href="mailto:adityagaur7078@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
